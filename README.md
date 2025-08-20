@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there, I'm Bhagya! 👋
 
-<!--
-**Bhagya888/Bhagya888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 HND Undergraduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m an enthusiastic and self-motivated student currently pursuing an HND in Information Technology. I’m passionate about web development, design, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills & Technologies
+
+- Languages: Java, C#, JavaScript
+- Web Development: HTML, CSS
+- Tools: Git, GitHub, VS Code, Photoshop
+
+🛠 Projects
+
+- Visiting Lecturer Website
+  A website created to manage lecturer profiles, details, and timetables.
+  
+- Café Website 
+  A responsive modern website designed for a local café with menu and contact features.
+
+🌱 Currently Learning
+
+- Frontend & backend web development
+- Database Management Systems
+- Software Engineering Principles
+
+📫 Contact Me
+
+- Email: *bhagyadharmawardhana0@gmail.com*
+- GitHub: [https://github.com/Bhagya888](https://github.com/Bhagya888)
+
+---
+
+> Stay curious, keep building, and never stop learning
+
+Thanks for visiting!
